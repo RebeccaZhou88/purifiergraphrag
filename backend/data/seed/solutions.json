@@ -1,0 +1,12 @@
+[
+  {"id": "SL-001", "description": "更换PP棉滤芯", "cost": 80},
+  {"id": "SL-002", "description": "更换前置活性炭", "cost": 120},
+  {"id": "SL-003", "description": "更换RO膜", "cost": 500},
+  {"id": "SL-004", "description": "免费更换批次缺陷RO膜", "cost": 0},
+  {"id": "SL-005", "description": "紧固管路接口", "cost": 50},
+  {"id": "SL-006", "description": "更换后置活性炭", "cost": 120},
+  {"id": "SL-007", "description": "清洗或更换超滤膜", "cost": 300},
+  {"id": "SL-008", "description": "更换水泵", "cost": 450},
+  {"id": "SL-009", "description": "校准或更换TDS传感器", "cost": 200},
+  {"id": "SL-010", "description": "检修电源接口", "cost": 100}
+]

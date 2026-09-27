@@ -1,0 +1,14 @@
+[
+  {"code": "FC-PP01", "type": "PP棉前置", "lifespan_months": 6},
+  {"code": "FC-PP07", "type": "PP棉前置", "lifespan_months": 6},
+  {"code": "FC-CTO02", "type": "活性炭", "lifespan_months": 12},
+  {"code": "FC-CTO08", "type": "活性炭", "lifespan_months": 12},
+  {"code": "FC-RO03", "type": "RO反渗透膜", "lifespan_months": 24},
+  {"code": "FC-RO06", "type": "RO反渗透膜(批次缺陷)", "lifespan_months": 24},
+  {"code": "FC-RO09", "type": "RO反渗透膜", "lifespan_months": 24},
+  {"code": "FC-Post04", "type": "后置活性炭", "lifespan_months": 12},
+  {"code": "FC-Post10", "type": "后置活性炭", "lifespan_months": 12},
+  {"code": "FC-UF05", "type": "超滤膜", "lifespan_months": 18},
+  {"code": "FC-UF11", "type": "超滤膜", "lifespan_months": 18},
+  {"code": "FC-Nano12", "type": "纳滤膜", "lifespan_months": 24}
+]

@@ -1,0 +1,10 @@
+[
+  {"name": "PG-A100", "series": "AquaPro", "release_year": 2022},
+  {"name": "PG-A200", "series": "AquaPro", "release_year": 2023},
+  {"name": "PG-A300", "series": "AquaPro", "release_year": 2024},
+  {"name": "PG-B150", "series": "PureMax", "release_year": 2023},
+  {"name": "PG-B300", "series": "PureMax", "release_year": 2024},
+  {"name": "PG-B500", "series": "PureMax", "release_year": 2024},
+  {"name": "PG-C100", "series": "ClearLife", "release_year": 2023},
+  {"name": "PG-C200", "series": "ClearLife", "release_year": 2024}
+]

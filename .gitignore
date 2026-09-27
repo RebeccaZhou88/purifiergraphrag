@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+ENV/
+.conda/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+.coverage.*
+
+# Env / secrets
+.env
+.env.local
+*.key
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Trae
+.trae/
+
+# Data
+backend/data/neo4j/
+neo4j_data/
+backend/data/mock/*.db
+backend/data/mock/sync_state.json
+backend/data/ingest/state.json
+
+# Build
+*.tsbuildinfo

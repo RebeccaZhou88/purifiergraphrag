@@ -1,0 +1,7 @@
+# Azure AI Foundry 评估依赖（独立 conda 环境，避免与后端 graphrag 环境冲突）
+# 创建环境：conda create -n foundry python=3.11 -y
+# 安装：conda run -n foundry pip install -r requirements-foundry.txt
+
+azure-ai-evaluation>=1.18.0
+azure-ai-projects>=2.7.0
+azure-identity>=1.25.0

@@ -1,0 +1,12 @@
+[
+  {"id": "CUST-1001", "name": "张先生", "region": "华东"},
+  {"id": "CUST-1002", "name": "李女士", "region": "华南"},
+  {"id": "CUST-1003", "name": "王总", "region": "华北"},
+  {"id": "CUST-1004", "name": "赵经理", "region": "华东"},
+  {"id": "CUST-1005", "name": "陈先生", "region": "华南"},
+  {"id": "CUST-1006", "name": "刘女士", "region": "西南"},
+  {"id": "CUST-1007", "name": "周先生", "region": "华东"},
+  {"id": "CUST-1008", "name": "吴女士", "region": "华北"},
+  {"id": "CUST-1009", "name": "郑总", "region": "华南"},
+  {"id": "CUST-1010", "name": "孙经理", "region": "华东"}
+]

@@ -1,0 +1,10 @@
+[
+  {"code": "FLT-001", "symptom": "不出水"},
+  {"code": "FLT-002", "symptom": "出水有异味"},
+  {"code": "FLT-003", "symptom": "制水量明显下降"},
+  {"code": "FLT-004", "symptom": "漏水"},
+  {"code": "FLT-005", "symptom": "指示灯报警"},
+  {"code": "FLT-006", "symptom": "出水混浊"},
+  {"code": "FLT-007", "symptom": "噪音过大"},
+  {"code": "FLT-008", "symptom": "频繁自动重启"}
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "provider": "deepseek",
+    "model": "deepseek-v4-flash",
+    "n": 221,
+    "keyword_hit_rate": 100.0,
+    "entity_recall": 76.4,
+    "completeness": 55.7,
+    "context_hit_rate": 99.5,
+    "context_recall": 79.8,
+    "zero_result_rate": 0.0,
+    "retrieved_mean": 2.81,
+    "cypher_valid_rate": 100.0,
+    "error_rate": 0.0,
+    "recall_filter_compatibility": 100.0,
+    "recall_fault_diagnosis": 50.4,
+    "recall_batch_recall": 68.1,
+    "total": {
+      "mean": 736,
+      "p50": 687,
+      "p95": 1288,
+      "max": 1601
+    },
+    "ttft": {
+      "mean": 469,
+      "p50": 460,
+      "p95": 702,
+      "max": 935
+    },
+    "t_extract_cypher": {
+      "mean": 58,
+      "p50": 0,
+      "p95": 661,
+      "max": 961
+    },
+    "t_cypher_exec": {
+      "mean": 5,
+      "p50": 5,
+      "p95": 8,
+      "max": 46
+    },
+    "t_context": {
+      "mean": 1,
+      "p50": 1,
+      "p95": 2,
+      "max": 2
+    },
+    "t_generate": {
+      "mean": 671,
+      "p50": 654,
+      "p95": 958,
+      "max": 1136
+    },
+    "prompt_tokens_avg": 318,
+    "completion_tokens_avg": 44,
+    "total_tokens_avg": 362,
+    "total_tokens_sum": 79975,
+    "cost_usd_est": null
+  },
+  {
+    "provider": "qwen",
+    "model": "qwen3.8-max-0902",
+    "n": 221,
+    "keyword_hit_rate": 100.0,
+    "entity_recall": 77.0,
+    "completeness": 56.1,
+    "context_hit_rate": 99.5,
+    "context_recall": 79.8,
+    "zero_result_rate": 0.0,
+    "retrieved_mean": 2.81,
+    "cypher_valid_rate": 100.0,
+    "error_rate": 0.0,
+    "recall_filter_compatibility": 100.0,
+    "recall_fault_diagnosis": 50.6,
+    "recall_batch_recall": 70.9,
+    "total": {
+      "mean": 1783,
+      "p50": 1605,
+      "p95": 2825,
+      "max": 22823
+    },
+    "ttft": {
+      "mean": 871,
+      "p50": 758,
+      "p95": 1082,
+      "max": 22086
+    },
+    "t_extract_cypher": {
+      "mean": 124,
+      "p50": 0,
+      "p95": 1463,
+      "max": 1754
+    },
+    "t_cypher_exec": {
+      "mean": 5,
+      "p50": 5,
+      "p95": 7,
+      "max": 29
+    },
+    "t_context": {
+      "mean": 1,
+      "p50": 1,
+      "p95": 2,
+      "max": 3
+    },
+    "t_generate": {
+      "mean": 1652,
+      "p50": 1507,
+      "p95": 2359,
+      "max": 22816
+    },
+    "prompt_tokens_avg": 333,
+    "completion_tokens_avg": 46,
+    "total_tokens_avg": 379,
+    "total_tokens_sum": 83821,
+    "cost_usd_est": null
+  },
+  {
+    "provider": "azure_openai",
+    "model": "gpt-4.1-mini",
+    "n": 221,
+    "keyword_hit_rate": 99.5,
+    "entity_recall": 78.5,
+    "completeness": 55.2,
+    "context_hit_rate": 99.5,
+    "context_recall": 79.8,
+    "zero_result_rate": 0.0,
+    "retrieved_mean": 2.81,
+    "cypher_valid_rate": 100.0,
+    "error_rate": 0.0,
+    "recall_filter_compatibility": 99.0,
+    "recall_fault_diagnosis": 58.5,
+    "recall_batch_recall": 66.3,
+    "total": {
+      "mean": 1064,
+      "p50": 972,
+      "p95": 1738,
+      "max": 2369
+    },
+    "ttft": {
+      "mean": 914,
+      "p50": 885,
+      "p95": 1278,
+      "max": 1992
+    },
+    "t_extract_cypher": {
+      "mean": 89,
+      "p50": 0,
+      "p95": 987,
+      "max": 1531
+    },
+    "t_cypher_exec": {
+      "mean": 5,
+      "p50": 5,
+      "p95": 7,
+      "max": 27
+    },
+    "t_context": {
+      "mean": 1,
+      "p50": 1,
+      "p95": 2,
+      "max": 3
+    },
+    "t_generate": {
+      "mean": 968,
+      "p50": 934,
+      "p95": 1342,
+      "max": 2037
+    },
+    "prompt_tokens_avg": 343,
+    "completion_tokens_avg": 47,
+    "total_tokens_avg": 390,
+    "total_tokens_sum": 86196,
+    "cost_usd_est": 0.047
+  }
+]

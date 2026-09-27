@@ -1,0 +1,7 @@
+[
+  {"id": "BATCH-2024A", "production_date": "2024-03-15", "recall_status": "none"},
+  {"id": "BATCH-2024B", "production_date": "2024-05-20", "recall_status": "none"},
+  {"id": "BATCH-2024C", "production_date": "2024-08-10", "recall_status": "active"},
+  {"id": "BATCH-2024D", "production_date": "2024-10-05", "recall_status": "none"},
+  {"id": "BATCH-2024E", "production_date": "2024-11-28", "recall_status": "pending"}
+]

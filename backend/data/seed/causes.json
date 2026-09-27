@@ -1,0 +1,12 @@
+[
+  {"id": "CS-001", "description": "PP棉滤芯堵塞"},
+  {"id": "CS-002", "description": "前置活性炭寿命到期"},
+  {"id": "CS-003", "description": "RO膜破损或堵塞"},
+  {"id": "CS-004", "description": "批次RO膜密封缺陷"},
+  {"id": "CS-005", "description": "管路接口松动"},
+  {"id": "CS-006", "description": "后置活性炭失效"},
+  {"id": "CS-007", "description": "超滤膜污染"},
+  {"id": "CS-008", "description": "水泵故障"},
+  {"id": "CS-009", "description": "TDS传感器异常"},
+  {"id": "CS-010", "description": "电源接触不良"}
+]
